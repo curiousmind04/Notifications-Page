@@ -189,10 +189,11 @@ h2 {
 
 @media (min-width: 50rem) {
   main {
-    width: 56%;
+    width: 70%;
     max-width: 45.75rem;
     border-radius: 1rem;
     margin: 4rem 0;
+    padding-top: 2rem;
     padding-bottom: 0rem;
   }
   header {
@@ -221,10 +222,7 @@ h2 {
     font-size: 1rem;
   }
   .content {
-    padding-top: 0.2rem;
-  }
-  .content p {
-    margin-top: 0.4rem;
+    line-height: 1.4rem;
   }
   .message {
     line-height: 1.3rem;
